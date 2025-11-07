@@ -1,6 +1,6 @@
 # Disney Foods API
 
-**Disney Foods é um projeto desenvolvido como parte de um trabalho da faculdade, 
+**Disney Foods** é um projeto desenvolvido como parte de um trabalho da faculdade, 
 com o objetivo de integrar conceitos de **desenvolvimento full-stack**, 
 utilizando **Node.js (TypeORM + Express)** no backend e **Next.js (React + TypeScript)** no frontend.
 
