@@ -1,4 +1,4 @@
-#Disney Foods API
+# Disney Foods API
 
 **Disney Foods é um projeto desenvolvido como parte de um trabalho da faculdade, 
 com o objetivo de integrar conceitos de **desenvolvimento full-stack**, 
@@ -10,7 +10,7 @@ explorar comidas mágicas, descobrir em quais filmes elas aparecem e criar lista
 > Este projeto ainda **não está finalizado** ---diversas partes
 > estão em desenvolvimento e podem sofrer alterações nas próximas versões.
 
-##Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi desenvolvido como atividade prática para a disciplina de **Programação Web e Mobile** do curso de **Ciência de Computação** da **Universidade de Passo Fundo (UPF)**.
 O intuito é demonstrar: 
@@ -20,9 +20,9 @@ O intuito é demonstrar:
 - Consumo da API via React/Next.js;
 - Organização do código em camadas (controllers, services, entities, etc).
 
-##Tecnologias Utilizadas 
+## Tecnologias Utilizadas 
 
-###Backend
+### Backend
 
 - Node.js\
 - Express\
@@ -30,50 +30,50 @@ O intuito é demonstrar:
 - SQLite\
 - TypeScript
 
-  ###Frontend
+  ### Frontend
 
   - Next.js (React + TypeScript)\
   - React Bootstrap\
   - Axios
 
-  ##Estrutura do Projeto
+  ## Estrutura do Projeto
 
-  ##Como Executar
+  ## Como Executar
 
-  ###1. Clonar o repositório
+  ### 1. Clonar o repositório
 
   ```bash
   git clone https://github.com/brendabragaaa/disney-foods-api.git
   cd disney-foods-api
   ```
-  ###2. Instalar dependências do backend
+  ### 2. Instalar dependências do backend
 
   ```bash
   cd backend
   npm install
   ```
-  ###3. Rodar o servidor backend
+  ### 3. Rodar o servidor backend
 
   ```bash
   npm run dev
   ```
   O servidor rodará em:\'http://localhost:3000'
 
-  ###4. Instalar dependências do frontend
+  ### 4. Instalar dependências do frontend
 
   ```bash
   cd frontend
   npm install
   ```
 
-  ###5. Rodar o frontend
+  ### 5. Rodar o frontend
 
   ```bash
   npm run dev
   ```
   A aplicação estará disponível em:\'http://localhost:3001'
 
-  ##Funcionalidades (até o momento)
+  ## Funcionalidades (até o momento)
 
   - Cadastro, listagem, atualização e exclusão de **Filmes**\
   - Cadastro, listagem, atualização e exclusão de **Receitas**\
@@ -86,19 +86,19 @@ O intuito é demonstrar:
   - Criação de listas personalizadas de receitas\
   - Cadastro, listagem, atualização e exclusão de filmes e receitas pelo usuário
  
-  ##Desenvolvido por:
+  ## Desenvolvido por:
 
   **Brenda Braga de Lima
 
   Trabalho acadêmico desenvolvido para a disciplina de **Programação Web e Mobile** --- Curso de Ciência da Computação
   da Universidade de Passo Fundo (UPF).
 
-  ##Status do Projeto
+  ## Status do Projeto
 
   **Em desenvolvimento** --- novas funcionalidades e ajustes de integração estão sendo implmentados aos poucos.\
   Algumas rotas e páginas ainda podem retornar dados incompletos ou estáticos.
 
-  ##Créditos e Direitos Autorais
+  ## Créditos e Direitos Autorais
 
   Este proejto utiliza nomes, imagens e referências pertencentes à **The Walt Disney Company**.
   Todos os direitos sobre personagens, filmes, títulos e marcas são propriedades exclusivas da **Disney** e suas subsidiárias.
