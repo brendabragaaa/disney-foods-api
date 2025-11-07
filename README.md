@@ -24,16 +24,16 @@ O intuito é demonstrar:
 
 ### Backend
 
-- Node.js\
-- Express\
-- TypeORM\
-- SQLite\
+- Node.js
+- Express
+- TypeORM
+- SQLite
 - TypeScript
 
   ### Frontend
 
-  - Next.js (React + TypeScript)\
-  - React Bootstrap\
+  - Next.js (React + TypeScript)
+  - React Bootstrap
   - Axios
 
   ## Estrutura do Projeto
@@ -71,36 +71,36 @@ O intuito é demonstrar:
   ```bash
   npm run dev
   ```
-  A aplicação estará disponível em:\'http://localhost:3001'
+  A aplicação estará disponível em: 'http://localhost:3001'
 
   ## Funcionalidades (até o momento)
 
-  - Cadastro, listagem, atualização e exclusão de **Filmes**\
-  - Cadastro, listagem, atualização e exclusão de **Receitas**\
-  - Relacionamentos entre filmes e receitas\
-  - Página inicial com cards de acesso e barra de pesquisa\
-  - Busca integrada\
+  - Cadastro, listagem, atualização e exclusão de **Filmes**
+  - Cadastro, listagem, atualização e exclusão de **Receitas**
+  - Relacionamentos entre filmes e receitas
+  - Página inicial com cards de acesso e barra de pesquisa
+  - Busca integrada
 
   SOON:
-  - Sistema de login de usuário\
-  - Criação de listas personalizadas de receitas\
+  - Sistema de login de usuário
+  - Criação de listas personalizadas de receitas
   - Cadastro, listagem, atualização e exclusão de filmes e receitas pelo usuário
  
   ## Desenvolvido por:
 
-  **Brenda Braga de Lima
+  **Brenda Braga de Lima**
 
   Trabalho acadêmico desenvolvido para a disciplina de **Programação Web e Mobile** --- Curso de Ciência da Computação
   da Universidade de Passo Fundo (UPF).
 
   ## Status do Projeto
 
-  **Em desenvolvimento** --- novas funcionalidades e ajustes de integração estão sendo implmentados aos poucos.\
+  **Em desenvolvimento** --- novas funcionalidades e ajustes de integração estão sendo implmentados aos poucos.
   Algumas rotas e páginas ainda podem retornar dados incompletos ou estáticos.
 
   ## Créditos e Direitos Autorais
 
-  Este proejto utiliza nomes, imagens e referências pertencentes à **The Walt Disney Company**.
+  Este projeto utiliza nomes, imagens e referências pertencentes à **The Walt Disney Company**.
   Todos os direitos sobre personagens, filmes, títulos e marcas são propriedades exclusivas da **Disney** e suas subsidiárias.
 
   O objetivo deste projeto é **puramente educacional**, desenvolvido como parte de um trabalho acadêmico
